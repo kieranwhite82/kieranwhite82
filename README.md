@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kieranwhite82
-- 👀 I’m interested in ... computational physics; geophysics, mining
+- 👀 I’m interested in ... computational physics, geophysics, mining
 - 🌱 I’m currently learning ... how to code
 - 💞️ I’m looking to collaborate on ... improving my code and with it my ability
 - 📫 How to reach me ... comments on code
